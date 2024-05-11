@@ -38,7 +38,7 @@ async function fetchApi(params) {
     quote.style.borderRadius = '15px';
     quote.style.padding = '10px 20px 10px 20px';
     quote.style.display = 'block';
-    quote.style.maxWidth = '60%';
+    quote.style.maxWidth = '80%';
     quote.style.textAlign = 'center';
 
     author.style.color = 'tomato';
